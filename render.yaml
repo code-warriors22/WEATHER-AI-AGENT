@@ -1,6 +1,6 @@
 
     type: web
-    name: abhishek-weather-ai-agent
+    name: bitti-weather-ai-agent
     env: python
     plan: free
     runtime: python3.14
