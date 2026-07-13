@@ -7,3 +7,4 @@ tavily-python
 python-dotenv
 langchainhub
 streamlit
+python==3.10 
