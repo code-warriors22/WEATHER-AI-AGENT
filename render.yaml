@@ -3,6 +3,6 @@
     name: abhishek-weather-ai-agent
     env: python
     plan: free
-    runtime: python3.10
+    runtime: python3.14
     buildCommand: "pip install -r requirements.txt"
     startCommand: "streamlit run main.py --server.port=$PORT --server.headless=true"
